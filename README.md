@@ -1,4 +1,14 @@
 ### Hi there 👋
+<h1 align="center">Howdy. I'm deltabravozulu</h1>
+<h3 align="center">I'm a person</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deltabravozulu&label=PROFILE+%20+%20+VIEWS+%20%20&style=flat-square&color=690420" alt="deltabravozulu" /> </p>
+
+- 🎁 I make junk...sometimes it works
+- 😎 Scriptkiddie
+- 🧑🏻‍💻 Might fix your stuff if it breaks
+
+
 
 <!--
 **deltabravozulu/deltabravozulu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
