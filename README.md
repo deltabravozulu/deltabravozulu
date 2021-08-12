@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Howdy. I'm deltabravozulu</h1>
+<h1 align="center">Howdy</h1>
 <h3 align="center">I'm a person</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deltabravozulu&label=PROFILE+%20+%20+VIEWS+%20%20&style=flat-square&color=690420" alt="deltabravozulu" /> </p>
